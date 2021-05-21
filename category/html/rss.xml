@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>九 • Posts by &#34;html&#34; category</title>
+        <link>http://example.com</link>
+        <description></description>
+        <language>zh-CN</language>
+        <pubDate>Thu, 20 May 2021 23:23:14 +0800</pubDate>
+        <lastBuildDate>Thu, 20 May 2021 23:23:14 +0800</lastBuildDate>
+        <category>HTML</category>
+        <item>
+            <guid isPermalink="true">http://example.com/2021/05/20/html/</guid>
+            <title>html</title>
+            <link>http://example.com/2021/05/20/html/</link>
+            <category>HTML</category>
+            <pubDate>Thu, 20 May 2021 23:23:14 +0800</pubDate>
+            <description><![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;对 HTML 的学习&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;第一部分&lt;/strong&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>
