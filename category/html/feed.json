@@ -7,9 +7,9 @@
         {
             "id": "http://example.com/2021/05/20/html/",
             "url": "http://example.com/2021/05/20/html/",
-            "title": "html",
+            "title": "HTML",
             "date_published": "2021-05-20T15:23:14.000Z",
-            "content_html": "<blockquote>\n<p>对 HTML 的学习</p>\n</blockquote>\n<p><strong>第一部分</strong></p>\n",
+            "content_html": "<blockquote>\n<p>对 HTML 的学习</p>\n</blockquote>\n<p><strong>第一部分 HTML 元素</strong></p>\n",
             "tags": [
                 "HTML"
             ]

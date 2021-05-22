@@ -10,14 +10,14 @@
         <category>HTML</category>
         <item>
             <guid isPermalink="true">http://example.com/2021/05/20/html/</guid>
-            <title>html</title>
+            <title>HTML</title>
             <link>http://example.com/2021/05/20/html/</link>
             <category>HTML</category>
             <pubDate>Thu, 20 May 2021 23:23:14 +0800</pubDate>
             <description><![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;对 HTML 的学习&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;第一部分&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第一部分 HTML 元素&lt;/strong&gt;&lt;/p&gt;
  ]]></description>
         </item>
     </channel>
